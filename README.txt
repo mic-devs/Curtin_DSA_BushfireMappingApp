@@ -1,7 +1,8 @@
+Kindly refer to the Assignment_Specifications.pdf and Report.pdf files for details on the assignment project!
+
 All necessary code is inside of the Code folder. It includes 14 classes that make up the program. As well as location.txt and UAVdata.txt for sample data. 
 
 To run program, simply compile Menu.java and run that alone. That's it!
-
 
 In the event you would like to use a different set of sample data files:
 Step 1: Open Menu.java
